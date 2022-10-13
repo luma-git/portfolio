@@ -14,7 +14,7 @@ function header() {
           <img src={img} alt="" />
       </div>
       <h1>Pauline Gilg <span>✨</span></h1>
-      <h2>Développeuse web fullstack @Strasbourg</h2>
+      <h2>Développeuse fullstack @Strasbourg</h2>
       <DarkModeButton />
     </header>
   );

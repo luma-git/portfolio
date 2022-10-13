@@ -14,7 +14,7 @@ function footer() {
         </Link>
       </ul>
       <div className="copyrights">
-        <p>© Pauline Gilg 2022. Développé avec React ❤️. Voir le <a href="https://github.com/pompompolin/create-react-portfolio" target="_blank">code</a>.</p>
+        <p>© Pauline Gilg 2022 | Développé avec React ❤️</p>
       </div>
     </footer>
   );

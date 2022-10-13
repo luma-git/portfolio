@@ -104,22 +104,6 @@ nav a {
   background-position: right bottom;
 }
 
-#codepen {
-  background: linear-gradient(to right, #F495BF 50%, transparent 50%);
-  border: 1px solid #F495BF;
-  transition: background 0.2s ease-in-out;
-  background-size: 200% 100%;
-  background-position: right bottom;
-}
-
-#twitter {
-  background: linear-gradient(to right, rgb(185, 149, 244) 50%, transparent 50%);
-  border: 1px solid rgb(185, 149, 244);
-  transition: background 0.2s ease-in-out;
-  background-size: 200% 100%;
-  background-position: right bottom;
-}
-
 #mail {
   background: linear-gradient(to right, #FFF100 50%, transparent 50%);
   border: 1px solid #FFF100;
@@ -128,7 +112,7 @@ nav a {
   background-position: right bottom;
 }
 
-#linkedin:hover, #blog:hover, #github:hover, #codepen:hover, #twitter:hover, #mail:hover {
+#linkedin:hover, #blog:hover, #github:hover, #mail:hover {
   background-position: left bottom;
   text-decoration: none;
 }
